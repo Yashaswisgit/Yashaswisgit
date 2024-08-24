@@ -12,7 +12,7 @@ I'm a passionate full-stack developer with a keen interest in building responsiv
 - 🌱 **Currently Learning:** Advanced JavaScript, Microservices, Docker.
 - 👯 **Looking to Collaborate On:** Open-source projects and innovative web applications.
 - 💬 **Ask me about:** Full-stack development, Python, UI/UX design.
-- 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/yashaswi-soni-75ab311b3/)
+- 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/yashaswi-soni-75ab311b3/), [Twitter](https://twitter.com/yashaswisoni)
 - 🏆 **LeetCode:** [My Profile](https://leetcode.com/u/Yash_Infinity/)
 
 ---
@@ -53,14 +53,15 @@ An in-depth data analysis project where I integrated Python with SQL to analyze 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YashaswiSoni&show_icons=true&theme=radical" alt="Yashaswi's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashaswisgit&theme=radical" alt="Yashaswi's GitHub streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashaswiSoni&theme=radical" alt="Yashaswi's GitHub streak stats" />
 </p>
 
 ---
 
 ## 🌟 My LeetCode Stats
+
 <p align="center">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?user=Yash_Infinity&theme=dark&hide=rank,solveCount" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/Yash_Infinity?ext=heatmap" alt="LeetCode Stats" />
 </p>
 
 ---
