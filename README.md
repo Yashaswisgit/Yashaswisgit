@@ -16,7 +16,7 @@ I'm a passionate full-stack developer with a keen interest in building responsiv
 - 🌱 **Currently Learning:** Advanced JavaScript, Microservices, Docker.
 - 👯 **Looking to Collaborate On:** Open-source projects and innovative web applications.
 - 💬 **Ask me about:** Full-stack development, Python, UI/UX design.
-- 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/yashaswi-soni-75ab311b3/), [Instagram](https://www.instagram.com/yashaswisoni/)
+- 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/yashaswi-soni-75ab311b3/), [Instagram](https://www.instagram.com/yashaswis_/)
 - 🏆 **LeetCode:** [My Profile](https://leetcode.com/u/Yash_Infinity/)
 
 ---
@@ -73,11 +73,7 @@ An in-depth data analysis project where I integrated Python with SQL to analyze 
 
 ---
 
-## 📦 Top Contributed Repos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yashaswisgit&repo=Restaurant-Webpage&theme=radical)](https://github.com/Yashaswisgit/Restaurant-Webpage)
-
----
 
 ## 💡 Random Developer Quote
 <p align="center">
@@ -89,9 +85,9 @@ An in-depth data analysis project where I integrated Python with SQL to analyze 
 ## 📫 Let's Connect!
 <p align="center">
   <a href="https://www.linkedin.com/in/yashaswi-soni-75ab311b3/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.instagram.com/yashaswisoni/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.instagram.com/yashaswis_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://leetcode.com/u/Yash_Infinity/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
-  <a href="mailto:yashaswisoni@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:thefinalstage2409@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
