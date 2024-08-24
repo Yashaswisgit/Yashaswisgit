@@ -66,8 +66,9 @@ An in-depth data analysis project where I integrated Python with SQL to analyze 
 
 ---
 
-## 🌟 My LeetCode Profile
-- 🏆 **LeetCode:** [Yashaswi Soni's LeetCode Profile](https://leetcode.com/u/Yash_Infinity/)
+## 🌟 My LeetCode Profile Stats
+- 🏆 **LeetCode:** [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-orange)](https://leetcode.com/u/Yash_Infinity/)
+
 
 *Note: LeetCode profile stats are currently unavailable due to a service issue.*
 
