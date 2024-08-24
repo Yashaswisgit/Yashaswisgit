@@ -12,8 +12,8 @@ I'm a passionate full-stack developer with a keen interest in building responsiv
 - 🌱 **Currently Learning:** Advanced JavaScript, Microservices, Docker.
 - 👯 **Looking to Collaborate On:** Open-source projects and innovative web applications.
 - 💬 **Ask me about:** Full-stack development, Python, UI/UX design.
-- 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/yashaswisoni/), [Twitter](https://twitter.com/yashaswisoni)
-- 🏆 **LeetCode:** [My Profile](https://leetcode.com/YashaswiSoni)
+- 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/yashaswi-soni-75ab311b3/)
+- 🏆 **LeetCode:** [My Profile](https://leetcode.com/u/Yash_Infinity/)
 
 ---
 
@@ -53,30 +53,26 @@ An in-depth data analysis project where I integrated Python with SQL to analyze 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YashaswiSoni&show_icons=true&theme=radical" alt="Yashaswi's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashaswiSoni&theme=radical" alt="Yashaswi's GitHub streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashaswisgit&theme=radical" alt="Yashaswi's GitHub streak stats" />
 </p>
 
 ---
 
 ## 🌟 My LeetCode Stats
 <p align="center">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?user=YashaswiSoni&theme=dark&hide=rank,solveCount" alt="LeetCode Stats" />
+  <img src="https://leetcode-badge-showcase.vercel.app/api?user=Yash_Infinity&theme=dark&hide=rank,solveCount" alt="LeetCode Stats" />
 </p>
 
 ---
 
 ## 📫 Let's Connect!
 <p align="center">
-  <a href="https://www.linkedin.com/in/yashaswisoni/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/yashaswi-soni-75ab311b3/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://twitter.com/yashaswisoni"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://leetcode.com/YashaswiSoni/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
+  <a href="https://leetcode.com/u/Yash_Infinity/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
   <a href="mailto:yashaswisoni@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
 
 *Thank you for visiting my profile! Let's connect and collaborate on exciting projects.* 🚀
-
-
-
-
