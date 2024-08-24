@@ -52,8 +52,8 @@ An in-depth data analysis project where I integrated Python with SQL to analyze 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YashaswiSoni&show_icons=true&theme=radical" alt="Yashaswi's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashaswiSoni&theme=radical" alt="Yashaswi's GitHub streak stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yashaswisgit&show_icons=true&theme=radical" alt="Yashaswi's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashaswisgit&theme=radical" alt="Yashaswi's GitHub streak stats" />
 </p>
 
 ---
