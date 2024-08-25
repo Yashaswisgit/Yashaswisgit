@@ -1,12 +1,16 @@
-# Hello, I'm Yashaswi Soni! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=YashaswiSoni&color=brightgreen)
+
 
 ---
 
 ![Welcome GIF](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 
 ---
+# Hello, I'm Yashaswi Soni! 👋
+<h3 align="center"><a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=19FFD6&center=true&vCenter=true&width=700&lines=A+passionate+Software+developer+from+India" alt="Typing SVG" /></a></h3>
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=YashaswiSoni&color=brightgreen)
 
 ## 🌟 About Me
 🎓 **Developer** | 🎨 **Designer** | 📚 **Lifelong Learner**
@@ -70,10 +74,11 @@ An in-depth data analysis project where I integrated Python with SQL to analyze 
 ---
 
 ## 🌟 My LeetCode Profile Stats
-- 🏆 **LeetCode:** [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-orange)](https://leetcode.com/u/Yash_Infinity/)
+- 🏆  <a href="https://leetcode.com/u/Yash_Infinity/" target="_blank">
+ <img align="center" src='https://leetcard.jacoblin.cool/Yash_Infinity?hide=ranking&border=0&radius=21' width='380"'>
+</a>
 
 
-*Note: LeetCode profile stats are currently unavailable due to a service issue.*
 
 ---
 
