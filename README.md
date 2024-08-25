@@ -20,7 +20,7 @@ I'm a passionate full-stack developer with a keen interest in building responsiv
 - 🌱 **Currently Learning:** Advanced JavaScript, Microservices, Docker.
 - 👯 **Looking to Collaborate On:** Open-source projects and innovative web applications.
 - 💬 **Ask me about:** Full-stack development, Python, UI/UX design.
-- 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/yashaswi-soni-75ab311b3/), [Instagram](https://www.instagram.com/yashaswis_/)
+- 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/yashaswi-soni-75ab311b3/), [Instagram](https://www.instagram.com/yashaswis_/), [Mail Me!](mailto:thefinalstage2409@gmail.com)
 - 🏆 **LeetCode:** [My Profile](https://leetcode.com/u/Yash_Infinity/)
 
 ---
@@ -46,13 +46,13 @@ I'm a passionate full-stack developer with a keen interest in building responsiv
 
 ## 🚀 Projects
 
-### [Restaurant Webpage]([https://github.com/YashaswiSoni/Restaurant-Webpage](https://restaurant-website-neon-one.vercel.app/)) 🍽️
+### [Restaurant Webpage](https://restaurant-website-neon-one.vercel.app/) 🍽️
 A full-stack luxury restaurant website built with ReactJS and Django. This project includes a dynamic menu that can be updated in real-time by the admin. The front-end is built using React components and styled with Bootstrap, while the back-end is powered by Django, ensuring a smooth and efficient user experience.
 
 - **Technologies Used:** ReactJS, Django, Bootstrap, Node.js
 - **Key Features:** Real-time menu updates, responsive design, seamless integration between front-end and back-end.
 
-### [Data Analysis Project](https://github.com/YashaswiSoni/Data-Analysis-Project) 📊
+### [Data Analysis Project](https://github.com/Yashaswisgit/eCommerce-Data-Analysis) 📊
 An in-depth data analysis project where I integrated Python with SQL to analyze 3 years of eCommerce sales data. The analysis covers 15 standard questions ranging from beginner to advanced levels, using Seaborn and Matplotlib for visualization.
 
 - **Technologies Used:** Python, SQL, Jupyter Notebook, Seaborn, Matplotlib
