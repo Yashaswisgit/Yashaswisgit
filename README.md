@@ -35,15 +35,14 @@ I'm a passionate full-stack developer with a keen interest in building responsiv
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
+
 </p>
 
 ---
 
 ## 🚀 Projects
 
-### [Restaurant Webpage](https://github.com/YashaswiSoni/Restaurant-Webpage) 🍽️
+### [Restaurant Webpage]([https://github.com/YashaswiSoni/Restaurant-Webpage](https://restaurant-website-neon-one.vercel.app/)) 🍽️
 A full-stack luxury restaurant website built with ReactJS and Django. This project includes a dynamic menu that can be updated in real-time by the admin. The front-end is built using React components and styled with Bootstrap, while the back-end is powered by Django, ensuring a smooth and efficient user experience.
 
 - **Technologies Used:** ReactJS, Django, Bootstrap, Node.js
@@ -62,8 +61,12 @@ An in-depth data analysis project where I integrated Python with SQL to analyze 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yashaswisgit&show_icons=true&theme=radical" alt="Yashaswi's GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashaswisgit&theme=radical" alt="Yashaswi's GitHub streak stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yashaswisgit&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 </p>
 
+
+## GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=Yashaswisgit&theme=juicyfresh&no-bg=true" />
 ---
 
 ## 🌟 My LeetCode Profile Stats
